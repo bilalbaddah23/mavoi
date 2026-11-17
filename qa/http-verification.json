@@ -1,0 +1,38 @@
+{
+  "result": "PASS",
+  "brand": "Mavoi",
+  "businessFlow": "retail-collection-enquiry",
+  "checks": [
+    "All page/example routes: HTTP200, one H1, unique IDs, security/noindex headers and correct brand",
+    "All internal links, scripts/styles/fonts and image assets return200",
+    "Server search/reversed terms, category filter, empty state and HTML encoding",
+    "Unknown/private paths404, retail routes absent on manufacturer, health, gzip and versioned asset caching",
+    "Correct contact and brand; draft only, no false order; server validation rejects tampering, bad inputs, missing CSRF, malformed JSON/null and wrong content type",
+    "Per-IP enquiry rate limit429"
+  ],
+  "routes": [
+    "/",
+    "/shop",
+    "/saved",
+    "/our-world",
+    "/contact",
+    "/privacy",
+    "/lookbook",
+    "/style-guide",
+    "/bag",
+    "/checkout",
+    "/product/burgundy-striped-knit-edit",
+    "/product/burgundy-coordinated-set",
+    "/product/striped-zip-layer",
+    "/product/burgundy-cardigan-look",
+    "/product/ivory-striped-knit",
+    "/product/sky-blue-zip-knit",
+    "/product/burgundy-relaxed-knit",
+    "/product/plum-crew-neck-knit",
+    "/product/red-sleeveless-top"
+  ],
+  "products": 9,
+  "internalAssetsAndLinks": 38,
+  "images": 11,
+  "scope": "Local compiled ASP.NET10 release. No messages sent, orders placed, payments or VPS load test."
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-02.jpg",
+    "sha256": "aa9dff92c32da064eb9e0ada0798d7232048788c65bd0a30417d29531547fd2c",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-04.jpg",
+    "sha256": "0d9e8df5e8d96d3d58a2aff9e9f382b7a5717ef1894d9dc2721fb07954edf686",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-03.jpg",
+    "sha256": "5cc5d386ad26b3ebe8410562bbcbe48c26cf4932d82f009fd53430a718c13601",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-05.jpg",
+    "sha256": "3c8401efa00377d40e88ebcfcefd19d728d18657c52f07cbaf674d129facb7cd",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-06.jpg",
+    "sha256": "96fc72cf8404820ffe41b30bf3e281dd0cfb911fc162318bf6e248595183a31e",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-12.jpg",
+    "sha256": "924ea1805d8126d8091e0bf59739faf6207792aef9db320e6808ca6633fc1f10",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-07.jpg",
+    "sha256": "1ee1a92b59499e5a8fd23085dd506e65f99b94838578cb6a2de6bd605d0c6a6a",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-08.jpg",
+    "sha256": "018aaf9b6afb6195dacdfbff49388d036b91aeeee1f4683d1fe2a418633bdfd1",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\native-hero.jpg",
+    "sha256": "a49c1a2cc5972f8463638f6a1b73e29c06a6a4f417fbfbb620f96a76cf1ad4e6",
+    "originalDimensions": [
+      1283,
+      1598
+    ],
+    "webDimensions": [
+      1283,
+      1598
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-10.jpg",
+    "sha256": "169c65bb53a95f333b940616085ea698faea67f418d7434f2a074c068fc63576",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-11.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-11.jpg",
+    "sha256": "89f3cde9762bca358d77e9abf8a3738960e32a048dc6b75c04f692ffd74dc602",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  }
+]

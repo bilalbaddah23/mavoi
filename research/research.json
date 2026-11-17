@@ -1,0 +1,350 @@
+{
+  "brand": "Mavoi",
+  "handle": "mavoi.lb",
+  "instagram": "https://www.instagram.com/mavoi.lb/",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "publicPhoneObserved": "96176905626",
+  "hours": "Confirm current visiting hours with the boutique",
+  "followersObserved": null,
+  "followersDisplay": "13K",
+  "latestVisiblePost": "2026-11-09",
+  "latestVisibleCollectionPost": "2026-11-08",
+  "researchDate": "2026-11-17",
+  "profileBio": "See it. Say it. Wear it.\n📍zalka\n📱+961 76 905 626\n🇱🇧 We deliver all over Lebanon",
+  "bioLinks": [
+    "https://maps.app.goo.gl/NhoStEoU5qjLo1bx7"
+  ],
+  "branches": [
+    {
+      "name": "Zalka",
+      "mapUrl": "https://maps.app.goo.gl/NhoStEoU5qjLo1bx7"
+    }
+  ],
+  "about": "Discover photographed knitwear, relaxed coordinated looks and everyday layers from Mavoi in Zalka. Save the looks that catch your eye and contact the official Instagram page to confirm fit, colour and delivery details.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\native-hero.jpg",
+  "storyImage": "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-03.jpg",
+  "galleryImages": [
+    "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-02.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-03.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-04.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-05.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-06.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-07.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-08.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\native-hero.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-10.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-11.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "burgundy-striped-knit-edit",
+      "name": "Burgundy Striped Knit Edit",
+      "category": "Knitwear",
+      "description": "Burgundy-and-light striped knit layers shown on hangers in the shop. These photos offer related knitwear references; ask the boutique which exact style and neckline is available. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-02.jpg",
+        "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DffYtVqMYwb/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "burgundy-coordinated-set",
+      "name": "Burgundy Coordinated Look",
+      "category": "Coordinated looks",
+      "description": "A burgundy long-sleeved top and relaxed matching-looking trousers, styled with white trainers. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfVOQytMHZ3/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "striped-zip-layer",
+      "name": "Striped Zip Layer",
+      "category": "Outer layers",
+      "description": "A short zip-front outer layer with bold dark and light stripes, styled with blue jeans. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfRcaJfMsHy/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "burgundy-cardigan-look",
+      "name": "Burgundy Cardigan Look",
+      "category": "Knitwear",
+      "description": "A burgundy textured zip-front cardigan shown with a light inner layer in two styling views. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-06.jpg",
+        "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfJmI7ls5cN/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "ivory-striped-knit",
+      "name": "Ivory Striped Knit Look",
+      "category": "Knitwear",
+      "description": "A light knit top with thin dark stripes and a collar, styled with grey wide-leg trousers. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfEygeSM-nt/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "sky-blue-zip-knit",
+      "name": "Sky Blue Zip Knit",
+      "category": "Knitwear",
+      "description": "A fitted light blue zip-front knit top with a wide collar, styled with brown trousers. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfEllhGMljH/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "burgundy-relaxed-knit",
+      "name": "Burgundy Relaxed Knit Look",
+      "category": "Knitwear",
+      "description": "A relaxed burgundy long-sleeved knit top styled with dark trousers and boots. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\native-hero.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/mavoi.lb/p/DfEkROpjCd8/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "plum-crew-neck-knit",
+      "name": "Plum Crew-Neck Knit",
+      "category": "Knitwear",
+      "description": "A deep plum long-sleeved crew-neck knit photographed on a hanger in the boutique. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfEjFT_MCWA/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "red-sleeveless-top",
+      "name": "Red Sleeveless Top Look",
+      "category": "Coordinated looks",
+      "description": "A bright red sleeveless fitted top shown with blue jeans. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/mavoi/assets/source-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfCTUcFsdHo/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    }
+  ],
+  "imageProvenance": [
+    {
+      "index": 2,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/891779684_17967805209208061_5742342615020618003_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=JwZ_doqtnd8Q7kNvwFcowBg&_nc_oc=AdpMwGnC0hYX3LC0TeVGIZ3slCHwO6Uhc6yt2entiDVzBPsRBqbTLbNeaicfCOumUlM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7QNA0Gifc8N4nwaJr-khMA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQAERPztm1XHoJbAbIY53Jcu8yXtj8zNoIhCA2djnsxRQ&oe=6B0271D3",
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DffYtVqMYwb/",
+      "alt": "Video by mavoi.lb on November 08, 2026. May be an image of clothes hanger, mannequin, top, rack and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "aa9dff92c32da064eb9e0ada0798d7232048788c65bd0a30417d29531547fd2c",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 3,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/890498503_17967230070208061_2737694065458888696_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kBCJf1fVX1QQ7kNvwFk68jj&_nc_oc=AdpslMijsnSMRXRmrPE12Nu84WH8-_eQOGyKSKPtkYBJcK9qN06pifj14zGSfI5gA6c&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7QNA0Gifc8N4nwaJr-khMA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQEYE7fbnP6tvhmjJT5gJP7bgjRgbfA5MbZAU0Lz05ZeQ&oe=6B027FE3",
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfVOQytMHZ3/",
+      "alt": "Video by mavoi.lb on November 04, 2026. May be an image of sweatsuit, sweatpants, jumpsuit and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "5cc5d386ad26b3ebe8410562bbcbe48c26cf4932d82f009fd53430a718c13601",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 4,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/886663391_17967228324208061_6919240027343228997_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=YR6sGdz--gMQ7kNvwEuCjAv&_nc_oc=AdrXntjd-uAl22w6-uoLags5PZiOEvq0aq225dfFk3PAv7gE6SD8kESla5l8D_4MOPA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7QNA0Gifc8N4nwaJr-khMA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQQ4a7tqLD5iJKV_-TrsUdh-11kJOREUM5gIpl0YDH7mA&oe=6B027FAC",
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfVMgDxMyFn/",
+      "alt": "Video by mavoi.lb on November 04, 2026. May be an image of stripes, clothes hanger, rack and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "0d9e8df5e8d96d3d58a2aff9e9f382b7a5717ef1894d9dc2721fb07954edf686",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 5,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/886527381_17967023940208061_1414254260943388094_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=slPA9C6OpHIQ7kNvwEBRDK5&_nc_oc=AdoqMYNpFZqX17X_kYpS9tYcdMAcoYYxSp7Z_CLteg2_uUJiRn_f8q3ONys1zYbJoD0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7QNA0Gifc8N4nwaJr-khMA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQKv_5t62WKJw3-EY6RQaEIz15agsOt37wKlolhwDqv1g&oe=6B0281A5",
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfRcaJfMsHy/",
+      "alt": "Video by mavoi.lb on November 03, 2026. May be an image of boots, flight jacket, top and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "3c8401efa00377d40e88ebcfcefd19d728d18657c52f07cbaf674d129facb7cd",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 6,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/883299827_17966496702208061_8725104002760026399_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=QcP0tCzdMh4Q7kNvwFeEpqz&_nc_oc=AdpjdV1rowyO8AmP6bO6vwx1E-hsUNxXq0HHmxzWZJqG_l4ZmqmyWPO35k5qtJLer_g&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7QNA0Gifc8N4nwaJr-khMA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTHh0KL1gY5UFaFstQKNnum8NeJXidjcs4RQBxBpQ5XRQ&oe=6B0280A7",
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfJmI7ls5cN/",
+      "alt": "Video by mavoi.lb on October 31, 2026. May be an image of cardigan, blazer, jacket, top, vest and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "96fc72cf8404820ffe41b30bf3e281dd0cfb911fc162318bf6e248595183a31e",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 7,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/878071350_17966195139208061_8076216332885491759_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=tztkt83pjTgQ7kNvwFZZLx-&_nc_oc=AdrPJ5kHmaAvdwlQQqdyBWkx45yL4jXjdpn9E7Yu4P4c4Mxu4DRYdVPdFZdhgryyeOE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7QNA0Gifc8N4nwaJr-khMA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSw1S-ucnA5rExmxXpUBuvZn0lAMYlK9klEpn_sHplO-g&oe=6B029218",
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfEygeSM-nt/",
+      "alt": "Video by mavoi.lb on October 29, 2026. May be an image of sweatpants, turtleneck, top and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "1ee1a92b59499e5a8fd23085dd506e65f99b94838578cb6a2de6bd605d0c6a6a",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 8,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/875191617_17966151933208061_1360025392064558164_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LnHYlmqu8d0Q7kNvwFPU1-1&_nc_oc=AdpskXXuce9tq1upgHBBqdhYi18IuWdHfG8LFgIgKDOi1RzCce_NCej2BAe_yO8rjXg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7QNA0Gifc8N4nwaJr-khMA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQjHSiW9bjudkm2g4iLmx2ZAakzHPqT6o3ial6CeAr-nQ&oe=6B02902D",
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfEllhGMljH/",
+      "alt": "Video by mavoi.lb on October 29, 2026. May be an image of skirt, top and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "018aaf9b6afb6195dacdfbff49388d036b91aeeee1f4683d1fe2a418633bdfd1",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 9,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\native-hero.jpg",
+      "sourceUrl": "https://instagram.fbey14-1.fna.fbcdn.net/v/t51.82787-15/877167885_17966148612208061_1709002603099573592_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=NDAxODQ5NTA0NzI3ODQ1NjI5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI4My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OlVt2y81DKQQ7kNvwHAtwMB&_nc_oc=AdrZu4apxm7lFV-UiUEUWKCF-1I9vQaznVP7Ksa3VwGSIBKaGemGHYWdockJh4rOeRY&_nc_zt=23&_nc_ht=instagram.fbey14-1.fna&_nc_gid=2snjkzrTmE81Jd9TrxaFpw&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQtzMiDfxLdOJihs6U4_WtgYKDF0RDH_XZaiKnvysCgIw&oe=6B025DEC",
+      "sourcePost": "https://www.instagram.com/mavoi.lb/p/DfEkROpjCd8/",
+      "alt": "Photo by mavoi.lb on October 29, 2026. May be an image of sweater, fleece, turtleneck, sweatshirt, tunic, top and text.",
+      "width": 1283,
+      "height": 1598,
+      "sha256": "a49c1a2cc5972f8463638f6a1b73e29c06a6a4f417fbfbb620f96a76cf1ad4e6",
+      "sourceImageType": "Native public photo still (full source image, replacing equivalent grid thumbnail)",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 10,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/869682642_17966148060208061_2471176907422090797_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gxrKx3EDaHgQ7kNvwHzrsvW&_nc_oc=Adp9LBqIr2cL92TVxWECQfA7TkzuKTTFAJix7CZY6xfOjTvbdInejfvDtRpQ85HnRCs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7QNA0Gifc8N4nwaJr-khMA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQ7jj63dyxxN1Cy6qvG32jtwmSVmPy4n7ngaGmgiM9PzA&oe=6B0268C3",
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfEjFT_MCWA/",
+      "alt": "Video by mavoi.lb on October 29, 2026. May be an image of fleece, clothes hanger, rack and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "169c65bb53a95f333b940616085ea698faea67f418d7434f2a074c068fc63576",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 11,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/873992012_17965979367208061_240625958591000178_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rBli7VZ7lPoQ7kNvwFAHRPO&_nc_oc=Adp18neOkEyZ7rYHAeD-du-WIt2HITfUAV5_-0lLfYQKW5j3wafh7zSCKq4nOL3584M&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7QNA0Gifc8N4nwaJr-khMA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQS-hN8MMWGF_sdDFSq6h4qUbfgwZSOBdgw1MyqWKyvFQw&oe=6B026367",
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfCTUcFsdHo/",
+      "alt": "Video by mavoi.lb on October 28, 2026. May be an image of top and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "89f3cde9762bca358d77e9abf8a3738960e32a048dc6b75c04f692ffd74dc602",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    },
+    {
+      "index": 12,
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\mavoi\\assets\\source-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/868710113_17965979313208061_402746551040934699_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AwoRZSy0E3MQ7kNvwGIg_Sw&_nc_oc=Adr_8_MFJBawibAKoxDcat8h7aPxcIsUPkkoQSpAL13l2F3YvIpAsvaBUw_CjUKnBiE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7QNA0Gifc8N4nwaJr-khMA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSD0fA_1iYI485pGD1HZuCEBZWY5rjvW_G3Lo_wg77m4w&oe=6B028374",
+      "sourcePost": "https://www.instagram.com/mavoi.lb/reel/DfCSrT9shvH/",
+      "alt": "Video by mavoi.lb on October 28, 2026. May be an image of one or more people, hair, knit, top, cardigan, sweater and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "924ea1805d8126d8091e0bf59739faf6207792aef9db320e6808ca6633fc1f10",
+      "sourceImageType": "Native public Reel cover still",
+      "observedDate": "2026-11-17",
+      "selected": true,
+      "aiOriginIndependentlyVerified": false,
+      "observationMethod": "Root inspected the rendered public Instagram profile and exported observed image assets with pageAssets; no guessed URLs or extracted video frames."
+    }
+  ],
+  "activityEvidence": "The latest visible own post is a November9 announcement for a November11one-day sale; the announcement was read and excluded from website imagery. Own collection Reel dated November8 and several garment posts from October28–November4,2026 were visible.",
+  "contactEvidence": "Current official Instagram biography lists phone +96176905626, but does not explicitly identify WhatsApp. Use Instagram direct-message mode; public phone retained as source evidence only, not as an inferred WhatsApp destination.",
+  "websiteCheck": {
+    "result": "No matching official website found in checked public biography links and bounded handle/name searches; an unlisted website cannot be ruled out.",
+    "checkedDate": "2026-11-17",
+    "sources": [
+      "https://www.instagram.com/mavoi.lb/",
+      "https://www.google.com/search?q=%22mavoi.lb%22+website+shop"
+    ],
+    "evidence": "Sole bio link is Google Maps. Exact-handle website/shop search returned social posts and Maps with Add website, without a matching official shop. Latest post was a November11 one-day promotion announced November9; no present discount assumed."
+  },
+  "imageNotes": "Eleven unique native public image files: one regular photo still and ten native Reel-cover stills. No video files downloaded or frames extracted. Source01expiredone-daypromotion excluded. Related striped knit references and burgundy cardigan styling views are grouped as edits without claiming exact variants or bundles. Source image9 grid thumbnail replaced by exact native1283×1598photo for the hero, product and gallery. The native file includes a lower black letterbox area; preserve the source or use CSS framing for display. Current discounts, fabric composition, sizing, availability and prices require owner confirmation."
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-17",
+  "desktop": {
+    "heroLoaded": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  "checks": [
+    "Search/empty/category/A-Z sort, favourite reload persistence/clear, image thumbnail and zoom, bag add/increase/remove, required feedback and correct-contact draft/copy/edit",
+    "Gift style finder, gallery filter/reset/viewer/next/Escape and global search suggestions"
+  ],
+  "responsive": [
+    {
+      "route": "/",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/shop",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/product/burgundy-striped-knit-edit",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/lookbook",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/contact",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "route": "/checkout",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    }
+  ],
+  "additional360": {
+    "scrollWidth": 345,
+    "width": 360
+  },
+  "result": "PASS",
+  "consoleErrors": [],
+  "screenshots": [
+    "desktop-home.jpg",
+    "mobile-home.jpg"
+  ],
+  "scope": "Local compiled ASP.NET Core10 release using synthetic details; no messages sent, payments or VPS deployment."
+}

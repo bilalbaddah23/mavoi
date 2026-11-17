@@ -1,0 +1,187 @@
+{
+  "brand": "Mavoi",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "instagram": "https://www.instagram.com/mavoi.lb/",
+  "hours": "Confirm current visiting hours with the boutique",
+  "hero": "/images/collection-09.jpg",
+  "story": "/images/collection-03.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-06.jpg"
+  ],
+  "products": [
+    {
+      "id": "burgundy-striped-knit-edit",
+      "name": "Burgundy Striped Knit Edit",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "Burgundy-and-light striped knit layers shown on hangers in the shop. These photos offer related knitwear references; ask the boutique which exact style and neckline is available. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg",
+        "/images/collection-02.jpg"
+      ],
+      "source": "https://www.instagram.com/mavoi.lb/reel/DffYtVqMYwb/"
+    },
+    {
+      "id": "burgundy-coordinated-set",
+      "name": "Burgundy Coordinated Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy long-sleeved top and relaxed matching-looking trousers, styled with white trainers. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/mavoi.lb/reel/DfVOQytMHZ3/"
+    },
+    {
+      "id": "striped-zip-layer",
+      "name": "Striped Zip Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A short zip-front outer layer with bold dark and light stripes, styled with blue jeans. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/mavoi.lb/reel/DfRcaJfMsHy/"
+    },
+    {
+      "id": "burgundy-cardigan-look",
+      "name": "Burgundy Cardigan Look",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy textured zip-front cardigan shown with a light inner layer in two styling views. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg",
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/mavoi.lb/reel/DfJmI7ls5cN/"
+    },
+    {
+      "id": "ivory-striped-knit",
+      "name": "Ivory Striped Knit Look",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light knit top with thin dark stripes and a collar, styled with grey wide-leg trousers. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/mavoi.lb/reel/DfEygeSM-nt/"
+    },
+    {
+      "id": "sky-blue-zip-knit",
+      "name": "Sky Blue Zip Knit",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A fitted light blue zip-front knit top with a wide collar, styled with brown trousers. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/mavoi.lb/reel/DfEllhGMljH/"
+    },
+    {
+      "id": "burgundy-relaxed-knit",
+      "name": "Burgundy Relaxed Knit Look",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A relaxed burgundy long-sleeved knit top styled with dark trousers and boots. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/mavoi.lb/p/DfEkROpjCd8/"
+    },
+    {
+      "id": "plum-crew-neck-knit",
+      "name": "Plum Crew-Neck Knit",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A deep plum long-sleeved crew-neck knit photographed on a hanger in the boutique. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/mavoi.lb/reel/DfEjFT_MCWA/"
+    },
+    {
+      "id": "red-sleeveless-top",
+      "name": "Red Sleeveless Top Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A bright red sleeveless fitted top shown with blue jeans. Confirm the exact garment reference, fit, colour, current availability and price with the boutique. Styling accessories and separate garments are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-11.jpg"
+      ],
+      "source": "https://www.instagram.com/mavoi.lb/reel/DfCTUcFsdHo/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Zalka",
+      "mapUrl": "https://maps.app.goo.gl/NhoStEoU5qjLo1bx7"
+    }
+  ]
+}
